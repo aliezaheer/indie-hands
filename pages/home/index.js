@@ -1,5 +1,4 @@
 import Head from "next/head";
-import Header from "../../components/layout/header";
 
 const index = () => {
   return (
@@ -12,8 +11,6 @@ const index = () => {
         />
         <link rel="icon" href="/mehndi.png" />
       </Head>
-
-      <Header />
     </div>
   );
 };

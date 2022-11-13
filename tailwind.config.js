@@ -14,6 +14,7 @@ module.exports = {
       primaryText: "#ffffff",
       secondaryText: "#aaaaaa",
       navbarText: "#BDC3C7",
+      borderColor: "#353535",
     },
     extend: {},
   },
